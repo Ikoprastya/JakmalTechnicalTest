@@ -20,8 +20,8 @@ You may also see any lint errors in the console.
 
 ### npm yang perlu diinstal
 
-npm i react-router-dom
-npm i react icon
+npm i react-router-dom\
+npm i react icon\
 npm i jquery
 
 
